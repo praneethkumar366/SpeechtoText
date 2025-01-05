@@ -28,7 +28,7 @@ The user can click the "Copy the text" button to copy the transcribed text to th
 Setup Instructions
 Clone this repository:
 
-git clone
+git clone https://github.com/praneethkumar366/SpeechtoText.git
 Open the speechtotext.html file in your browser.
 
 Files Included
