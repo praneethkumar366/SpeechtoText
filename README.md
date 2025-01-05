@@ -53,6 +53,8 @@ This application uses the Web Speech API, which is supported in modern browsers 
 Google Chrome
 
 Microsoft Edge
+
+An overview of my page is here 
 ![image](https://github.com/user-attachments/assets/d43874f9-a702-42fe-8798-7852c3d3eeea)
 
 
